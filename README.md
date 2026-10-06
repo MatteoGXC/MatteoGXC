@@ -14,5 +14,5 @@ I'm Matteo, CEO and founder of [Hollow Hosting](https://hollow.host). I'm buildi
 
 ## Reach me
 
-For anything Hollow Hosting related, contact me at matteo@hollow.host. \n
+For anything Hollow Hosting related, contact me at matteo@hollow.host.                           
 For anything not related to Hollow Hosting [matteodelaide.com](https://matteodelaide.com)
